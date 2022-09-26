@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kenzie.app.MainTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2022-09-07T01:33:50" hostname="Luiss-MBP.lan" time="0.049">
+  <properties/>
+  <testcase name="allInstanceVariablesArePrivate()" classname="com.kenzie.app.MainTest" time="0.009"/>
+  <testcase name="asksForStockInfo()" classname="com.kenzie.app.MainTest" time="0.006"/>
+  <testcase name="canBuyStock()" classname="com.kenzie.app.MainTest" time="0.007"/>
+  <testcase name="canBuyMultipleTimes()" classname="com.kenzie.app.MainTest" time="0.007"/>
+  <testcase name="canBuySellAndCheckBalance()" classname="com.kenzie.app.MainTest" time="0.002"/>
+  <testcase name="canExitProgram()" classname="com.kenzie.app.MainTest" time="0.001"/>
+  <testcase name="canBuyAndCheckBalanceWithDifferentStockInfo()" classname="com.kenzie.app.MainTest" time="0.001"/>
+  <testcase name="canCheckEmptyBalance()" classname="com.kenzie.app.MainTest" time="0.002"/>
+  <testcase name="canBuyAndCheckBalance()" classname="com.kenzie.app.MainTest" time="0.002"/>
+  <testcase name="printsOpeningMessage()" classname="com.kenzie.app.MainTest" time="0.001"/>
+  <testcase name="canBuyAndSell()" classname="com.kenzie.app.MainTest" time="0.001"/>
+  <testcase name="canRunWithDifferentStockInfo()" classname="com.kenzie.app.MainTest" time="0.001"/>
+  <testcase name="canSellMultipleTimes()" classname="com.kenzie.app.MainTest" time="0.002"/>
+  <testcase name="displaysMenu()" classname="com.kenzie.app.MainTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
